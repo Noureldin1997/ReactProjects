@@ -1,0 +1,1 @@
+import{b as s,j as t}from"./index-er_ZiQ2j.js";const l="_logo_7b2ls_1",g={logo:l};function n(){const o=s();return t.jsx("img",{src:"/logo.png",alt:"WorldWise logo",className:g.logo,onClick:()=>o("/")})}export{n as L};
